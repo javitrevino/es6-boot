@@ -1,0 +1,19 @@
+{
+  "name": "es6-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "framer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javitrevino/es6-boot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javitrevino/es6-boot/issues"
+  },
+  "homepage": "https://github.com/javitrevino/es6-boot#readme"
+}
